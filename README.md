@@ -1,2 +1,2 @@
 # bd2_projeto
-Banco de Dados II
+Projeto final da disciplina de Banco de Dados II
