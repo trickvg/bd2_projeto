@@ -1,0 +1,35 @@
+h1
+{
+	color: #1f0000;
+	text-align: center;
+}
+
+body
+{
+	background: #b0e2f7
+;
+	font-family: Arial;
+}
+
+table
+{	
+	background: #217a94;
+	font-family: Arial;
+	font-size: 11pt;
+}
+form{
+	
+	color: yellow;
+}
+
+td
+{
+	width: 150px;
+	text-align: left;
+}
+
+th
+{
+	width: 150px;
+	text-align: left;
+}
